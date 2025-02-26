@@ -1,6 +1,6 @@
 # 👋🏾 Hey there ! I'm Mmokut Umoh😁
 
-**🤖AI Software Developer** | **🗣️Natural Language Processing Specialist** | **🛰️Geospatial AI Enthusiast**
+**🤖AI Software Developer** | **🗣️Natural Language Processing Specialist** | **🛰️Geospatial AI Enthusiast** | **💻Computer Science Student**
 
 ![Profile Banner](https://github.com/Yukin3/Yukine3/blob/main/asset/space.jpg?raw=true)
 
@@ -17,7 +17,7 @@
 
 **Overview:** All-in-one AI powered tool for learning and improving your recitations!.
 
-- 🌎 [Live Demo](https://github.com/Yukin3/Qari-AI.git) | [Repo](https://github.com/Yukin3/Qari-AI.git)
+- 🌎 [Live Demo](https://www.qari-ai.com/) | [Repo](https://github.com/Yukin3/Qari-AI.git)
 - ⚙️ **Tech Stack:** Express, Python, PyTorch, React
 
 ---
@@ -30,7 +30,7 @@
 
 ---
 
-- 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/mmokutu/)** lets support each others success!🤞🏾
+- 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/mmokutu/)** lets support each other's success!🤞🏾
 
 - 📧 You can always reach me at **mmokutaumoh@gmail.com**
 
