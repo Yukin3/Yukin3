@@ -1,6 +1,6 @@
 # 👋🏾 Hey there ! I'm Mmokut Umoh😁
 
-**🤖AI Software Developer** | **🗣️Natural Language Processing Specialist** | **🛰️Geospatial AI Enthusiast** | **💻Computer Science Student**
+**💻Computer Science Student | 📊Data Science Enthusiast | 👁️Computer Vision Enthusiast | 🗺️Geospatial Computing Enthusiast**
 
 - 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/mmokutu/)** lets support each other's success!
 
@@ -10,19 +10,23 @@
 
 ## 🏆 Project Spotlight
 
-### 👁️[CyberSentry](https://github.com/Yukin3/content-threat-detection)
+### 🗺️ Campus Digital Twin
 
-**Overview:** A fully functional threat detection platform, utilizing NLP to scan for suspicious digital activity.
+**Overview:** An ongoing geospatial project mapping campus walking networks and analyzing pedestrian movement, routes, and infrastructure at the University of Houston.
 
-- 🌎 [Live Demo](https://cybersentry.vercel.app/) | [Repo](https://github.com/Yukin3/content-threat-detection)
-- ⚙️ **Tech Stack:** React, Flask, FastAPI, Node
+- 🌎 Project Showcase | Repository
+    
+- ⚙️ **Tech Stack:** Python, QGIS, Mergin Maps, OSMnx, NetworkX, GeoPandas
+    
 
-### 🤖 [Qari AI](https://github.com/Yukin3/Qari-AI)
+### 🤖 CareCase
 
-**Overview:** All-in-one ASR tool for learning and improving your recitations!.
+**Overview:** An award-winning AI-powered clinical simulation platform combining speech, computer vision, and language AI for interactive healthcare training.
 
-- 🌎 [Live Demo](https://www.qari-ai.com/) | [Repo](https://github.com/Yukin3/Qari-AI)
-- ⚙️ **Tech Stack:** React, Wav2Vec, PyTorch, Express
+- 🌎 Project Showcase | Repository
+    
+- ⚙️ **Tech Stack:** Python, Computer Vision, MongoDB, NLP, TTS/STT, FER
+    
 
 ---
 
