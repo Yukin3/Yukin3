@@ -10,24 +10,22 @@
 
 ## 🏆 Project Spotlight
 
-### 🗺️ Campus Digital Twin
+### 🗺️ [Campus Digital Twin](https://github.com/Yukin3/walkers-twin)
 
 **Overview:** An ongoing geospatial project mapping campus walking networks and analyzing pedestrian movement, routes, and infrastructure at the University of Houston.
 
-- 🌎 Project Showcase | Repository
+- 🌎 [Interactive Map](https://app.merginmaps.com/maps/embed/0B6YSEFuGpxdbm66pxNVEZXMbbQ?basemap=0&tools=reload,spinner,zoom,scalebar&cx=-95.34662237685187&cy=29.720161964612913&cz=17) | [Repo](https://github.com/Yukin3/walkers-twin)
     
 - ⚙️ **Tech Stack:** Python, QGIS, Mergin Maps, OSMnx, NetworkX, GeoPandas
     
 
-### 🤖 CareCase
+### 🤖 [CareCase](https://github.com/Yukin3/CareCase)
 
 **Overview:** An award-winning AI-powered clinical simulation platform combining speech, computer vision, and language AI for interactive healthcare training.
 
-- 🌎 Project Showcase | Repository
+- 🌎 [Project Showcase](https://devpost.com/software/carecase) | [Repo](https://github.com/Yukin3/CareCase)
     
 - ⚙️ **Tech Stack:** Python, Computer Vision, MongoDB, NLP, TTS/STT, FER
-    
-
 ---
 
 ## 📊 GitHub Stats
