@@ -1,6 +1,6 @@
 # 👋🏾 Hey there ! I'm Mmokut Umoh😁
 
-**💻Computer Science Student | 📊Data Science Enthusiast | 👁️Computer Vision Enthusiast | 🗺️Geospatial Computing Enthusiast**
+**💻Computer Science Student | 📊Data Science | 👁️Computer Vision | 🗺️Geospatial Computing**
 
 - 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/mmokutu/)** lets support each other's success!
 
